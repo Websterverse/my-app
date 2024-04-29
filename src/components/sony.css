@@ -1,0 +1,220 @@
+h1{
+color: black;
+
+
+}
+
+.head{
+color: white;
+font-size: 60px;
+padding-left: 160px;
+}
+
+.card{
+    border-radius: 20px;
+width: 400px;
+height: 400px;
+background-color: #0000;
+overflow: hidden;
+border: 3px solid white;
+object-fit: cover;
+
+}
+.card-img{
+    /* border-radius: 20px; */
+    width: 100%;
+    transition: all ease 1s;
+    background-size: cover;
+    background-image: url("https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2019/12/02/Best-Hollywood-Movies-From-2019-Editors-Choice-scaled.jpg?quality=80&zoom=1&ssl=1");
+height: 70%;
+background-color: blue;
+}
+
+.card-img:hover  {
+
+    scale: 1.2;
+}
+.card-img1:hover  {
+
+    scale: 1.2;
+}
+.card-img2:hover  {
+
+    scale: 1.2;
+}
+.card-img3:hover  {
+
+    scale: 1.2;
+}
+.card-img4:hover  {
+
+    scale: 1.2;
+}
+.card-img5:hover  {
+
+    scale: 1.2;
+}
+.card-img6:hover  {
+
+    scale: 1.2;
+}
+.card-img7:hover  {
+
+    scale: 1.2;
+}
+.card-img8:hover  {
+
+    scale: 1.2;
+}
+.card-img9:hover  {
+
+    scale: 1.2;
+}
+.card-img10:hover  {
+
+    scale: 1.2;
+}
+.card-img11:hover  {
+
+    scale: 1.2;
+}
+
+.card-img1{
+
+    width: 100%;
+    transition: all ease 1s;
+    background-size: cover;
+    /* background-image: url("https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2019/12/02/Best-Hollywood-Movies-From-2019-Editors-Choice-scaled.jpg?quality=80&zoom=1&ssl=1"); */
+height: 70%;
+background-image: url("https://bingeddata.s3.amazonaws.com/uploads/2021/06/Best-50-Hollywood-Movies-For-You-To-Stream-On-SonyLIV-768x576.jpg");
+background-color: blue;
+
+}
+
+.card-img2{
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMIdU4nyKyT62sqaRMF6uArXGlri2Zijmxg&s"); */
+    background-color: blue;
+    background-image: url("https://www.digitalstudioindia.com/cloud/2023/12/19/SonyLiv-Main.jpg");
+    height: 70%;
+    width: 100%;
+    transition: all ease 1s;
+    background-size: cover;
+
+
+}
+.card-img3{
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMIdU4nyKyT62sqaRMF6uArXGlri2Zijmxg&s"); */
+    background-color: blue;
+    background-image: url("https://m.media-amazon.com/images/M/MV5BNTZhYzBkMTgtMjE0OC00OWViLThhZjYtY2MzNDNkNmVhNGNlXkEyXkFqcGdeQXVyMTE0MzQwMjgz._V1_.jpg");
+    height: 70%;
+    width: 100%;
+    transition: all ease 1s;
+    background-size: cover;
+    /* background-position: ; */
+    object-fit: cover;
+}
+.card-img4{
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMIdU4nyKyT62sqaRMF6uArXGlri2Zijmxg&s"); */
+    background-color: blue;
+    background-image: url("https://www.reliancedigital.in/wp-content/uploads/2019/02/netflix_movies_cover.jpg");
+    height: 70%;
+    width: 100%;
+    transition: all ease 1s;
+    background-size: cover;
+    /* background-position: ; */
+    object-fit: cover;
+}
+.card-img5{
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMIdU4nyKyT62sqaRMF6uArXGlri2Zijmxg&s"); */
+    background-color: blue;
+    background-image: url("https://resizing.flixster.com/P3ITKQPm33gw4K73O9DYCOfyZ4E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ1Zjg4NDFhLWMxY2EtNDU3NC04OTNmLTQ4MTJiMzc3Y2EwZC5qcGc=");
+    height: 70%;
+    transition: all ease 1s;
+    width: 100%;
+    background-size: cover;
+    /* background-position: ; */
+    object-fit: cover;
+}
+.card-img6{
+    background-color: blue;
+    height: 70%;
+    background-image: url("https://i.gadgets360cdn.com/large/hotstar_specials_multiplex_bhuj_aarya_bhoot_police_1627373903588.jpg");
+    width: 100%;
+    transition: all ease 1s;
+    background-size: cover;
+    object-fit: cover;
+}
+.card-img7{
+    background-color: blue;
+    height: 70%;
+    /* background-image: url("https://i.gadgets360cdn.com/large/hotstar_specials_multiplex_bhuj_aarya_bhoot_police_1627373903588.jpg"); */
+    width: 100%;
+    background-image: url("https://img.paisawapas.com/ovz3vew9pw/2022/09/06184733/Rectangle-1-97.png");
+    background-size: cover;
+    transition: all ease 1s;
+    object-fit: cover;
+}
+.card-img8{
+    background-color: blue;
+    height: 70%;
+    background-image: url("https://sm.ign.com/ign_in/screenshot/default/untitled-1_mtu5.png");
+    width: 100%;
+    background-size: cover;
+    transition: all ease 1s;
+    object-fit: cover;
+}
+.card-img9{
+    background-color: blue;
+    height: 70%;
+    background-image: url("https://m.media-amazon.com/images/S/pv-target-images/53f488f85c40db545c226eec34baa50ab40ce653e0ab0ef95b1caa9286b6203f._UR1920,1080_SX720_FMpng_.png");
+    width: 100%;
+    background-size: cover;
+    transition: all ease 1s;
+    object-fit: cover;
+}
+.card-img10{
+    background-color: blue;
+    height: 70%;
+    background-image: url("https://assets.aboutamazon.com/dims4/default/5c8169d/2147483647/strip/true/crop/1919x1080+1+0/resize/1240x698!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F2d%2F49%2Fabd3719b41aea4605bb51e4d8d72%2Fsubs-pre-order-consent-background-image-cb578173463.jpg");
+    width: 100%;
+    background-size: cover;
+    transition: all ease 1s;
+    object-fit: cover;
+}
+.card-img11{
+    background-color: blue;
+    height: 70%;
+    background-image: url("https://www.screenbinge.com/wp-content/uploads/2022/03/Best-Thriller-Movies-On-Amazon-Prime-AU-768x461.jpg");
+    width: 100%;
+    background-size: cover;
+    transition: all ease 1s;
+    object-fit: cover;
+}
+
+
+.card-info{
+background-color: black;
+width: 100%;
+height: 30%;
+color: white;
+
+}
+.plan{
+    color: white;
+    padding-left: 30px;
+}
+
+
+.detail{
+color: red;
+padding-left: 100px;
+
+}
+
+.CARD{
+
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+}

@@ -1,25 +1,28 @@
-import logo from './logo.svg';
+import React from 'react'
 import './App.css';
-
-function App() {
+import Nav from '../src/components/Nav';
+import Crousel from './components/Crousel';
+import Section from './components/Section';
+import Sony from './components/Sony';
+import Netflix from './components/Netflix';
+import Prime from './components/Prime';
+import Hotstar from './components/Hotstar';
+import Footer from "../src/components/Footer"
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <>
+
+
+<Nav/>
+<Crousel/>
+<Section/>
+<Sony/>
+<Netflix/>
+<Hotstar/>
+<Prime/>
+<Footer/>
+    </>
+  )
 }
 
-export default App;
+export default App
